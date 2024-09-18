@@ -4,7 +4,6 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-
 from_mail = "devmanorg@yandex.ru"
 to_mail = "yusupov0904@yandex.ru"
 subject = "Приглашение"
